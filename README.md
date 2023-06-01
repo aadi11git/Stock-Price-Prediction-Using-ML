@@ -1,14 +1,14 @@
 # Stock-Price-Prediction-Using-ML
 
 ## About
-
+A simple stock price prediction model trained on LSMT over last 10yrs of data . Implemented UI using Streamlit.
 
 ## Documentation
 
 - [Abstract]([(https://github.com/aadi11git/Stock-Price-Prediction-Using-ML/blob/main/docs/Abstract%20%20Stock%20Price%20Prediction%20Using%20Machine%20Learning.pdf))
 - [SRS](https://github.com/aadi11git/Stock-Price-Prediction-Using-ML/blob/main/docs/SRS%20-%20Stock%20Price%20Prediction%20Using%20Machine%20Learning.pdf)
-- [Pproject Report PDF](https://github.com/aadi11git/Stock-Price-Prediction-Using-ML/blob/main/docs/ProjectReport%20-%20Stock%20Price%20Prediction%20Using%20Machine%20Learning.pdf)
-- [Pproject Report Latex](https://github.com/aadi11git/Stock-Price-Prediction-Using-ML/blob/main/docs/ProjectReport%20-%20Stock%20Price%20Prediction%20Using%20Machine%20Learning.zip)
+- [Project Report PDF](https://github.com/aadi11git/Stock-Price-Prediction-Using-ML/blob/main/docs/ProjectReport%20-%20Stock%20Price%20Prediction%20Using%20Machine%20Learning.pdf)
+- [Project Report Latex](https://github.com/aadi11git/Stock-Price-Prediction-Using-ML/blob/main/docs/ProjectReport%20-%20Stock%20Price%20Prediction%20Using%20Machine%20Learning.zip)
 - [Form1](https://github.com/raghavtilak/TradeConnect/blob/master/docs/Form1.pdf)
 - [Form2](https://github.com/raghavtilak/TradeConnect/blob/master/docs/Form2.pdf)
 - [Form3](https://github.com/raghavtilak/TradeConnect/blob/master/docs/Form3.pdf)
@@ -16,14 +16,25 @@
 
 ## Team Details
 ### Member 1
-- Name: Raghav Sharma
-- Roll: 19ESKIT073
-- Branch: IT-B (G1)
-- Role: Mobile App Developer (Android,Kotlin) 
+- Name: Aditya Baghela
+- Roll: 19ESKIT004
+- Branch: IT-A (G1)
+- Role: 
 
 ### Member 2
-- Name: Mukul Jangid
-- Roll: 19ESKIT058
-- Branch: IT-B (G1)
-- Role: Backend Developer (NodeJS,Express,MongoDB) 
+- Name: Anosh Field
+- Roll: 19ESKIT010
+- Branch: IT-A (G1)
+- Role: 
 
+### Member 3
+- Name: Atishay Jain
+- Roll: 19ESKIT020
+- Branch: IT-A (G1)
+- Role: 
+
+### Member 4
+- Name: Dhruv Raj Naruka
+- Roll: 19ESKIT024
+- Branch: IT-A (G1)
+- Role: 
