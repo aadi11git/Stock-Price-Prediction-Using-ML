@@ -18,22 +18,18 @@ A simple stock price prediction model trained on LSMT over last 10yrs of data . 
 - Name: Aditya Baghela
 - Roll: 19ESKIT004
 - Branch: IT-A (G1)
-- Role: 
 
 ### Member 2
 - Name: Anosh Field
 - Roll: 19ESKIT010
 - Branch: IT-A (G1)
-- Role: 
 
 ### Member 3
 - Name: Atishay Jain
 - Roll: 19ESKIT020
 - Branch: IT-A (G1)
-- Role: 
 
 ### Member 4
 - Name: Dhruv Raj Naruka
 - Roll: 19ESKIT024
 - Branch: IT-A (G1)
-- Role: 
