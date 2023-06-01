@@ -5,14 +5,13 @@ A simple stock price prediction model trained on LSMT over last 10yrs of data . 
 
 ## Documentation
 
-- [Abstract]([(https://github.com/aadi11git/Stock-Price-Prediction-Using-ML/blob/main/docs/Abstract%20%20Stock%20Price%20Prediction%20Using%20Machine%20Learning.pdf))
+- [Abstract](https://github.com/aadi11git/Stock-Price-Prediction-Using-ML/blob/main/docs/Abstract%20%20Stock%20Price%20Prediction%20Using%20Machine%20Learning.pdf)
 - [SRS](https://github.com/aadi11git/Stock-Price-Prediction-Using-ML/blob/main/docs/SRS%20-%20Stock%20Price%20Prediction%20Using%20Machine%20Learning.pdf)
 - [Project Report PDF](https://github.com/aadi11git/Stock-Price-Prediction-Using-ML/blob/main/docs/ProjectReport%20-%20Stock%20Price%20Prediction%20Using%20Machine%20Learning.pdf)
 - [Project Report Latex](https://github.com/aadi11git/Stock-Price-Prediction-Using-ML/blob/main/docs/ProjectReport%20-%20Stock%20Price%20Prediction%20Using%20Machine%20Learning.zip)
-- [Form1](https://github.com/raghavtilak/TradeConnect/blob/master/docs/Form1.pdf)
-- [Form2](https://github.com/raghavtilak/TradeConnect/blob/master/docs/Form2.pdf)
-- [Form3](https://github.com/raghavtilak/TradeConnect/blob/master/docs/Form3.pdf)
-
+- [Form1]
+- [Form2]
+- [Form3]
 
 ## Team Details
 ### Member 1
