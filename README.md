@@ -9,9 +9,9 @@ A simple stock price prediction model trained on LSMT over last 10yrs of data . 
 - [SRS](https://github.com/aadi11git/Stock-Price-Prediction-Using-ML/blob/main/docs/SRS%20-%20Stock%20Price%20Prediction%20Using%20Machine%20Learning.pdf)
 - [Project Report PDF](https://github.com/aadi11git/Stock-Price-Prediction-Using-ML/blob/main/docs/ProjectReport%20-%20Stock%20Price%20Prediction%20Using%20Machine%20Learning.pdf)
 - [Project Report Latex](https://github.com/aadi11git/Stock-Price-Prediction-Using-ML/blob/main/docs/ProjectReport%20-%20Stock%20Price%20Prediction%20Using%20Machine%20Learning.zip)
-- [Form1]
-- [Form2]
-- [Form3]
+- [Form1](https://github.com/aadi11git/Stock-Price-Prediction-Using-ML/blob/main/docs/Form%201.pdf)
+- [Form2](https://github.com/aadi11git/Stock-Price-Prediction-Using-ML/blob/main/docs/Form%202.pdf)
+- [Form3](https://github.com/aadi11git/Stock-Price-Prediction-Using-ML/blob/main/docs/Form%203.pdf)
 
 ## Team Details
 ### Member 1
